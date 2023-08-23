@@ -283,13 +283,13 @@ sc start "testdrv"
 
 If you get the following error, restart Windows with signed driver checking disabled (hold down the Shift key while restarting).
 
-![alt text](https://raw.githubusercontent.com/billchaison/windriver/blob/master/01.png)
+![alt text](https://raw.githubusercontent.com/billchaison/windriver/main/01.png)
 
-![alt text](https://raw.githubusercontent.com/billchaison/windriver/blob/master/00.png)
+![alt text](https://raw.githubusercontent.com/billchaison/windriver/main/00.png)
 
 If all goes well you should be able to store a byte in the POST port and read it back out.
 
-![alt text](https://raw.githubusercontent.com/billchaison/windriver/blob/master/02.png)
+![alt text](https://raw.githubusercontent.com/billchaison/windriver/main/02.png)
 
 To remove the driver run the following commands.
 
